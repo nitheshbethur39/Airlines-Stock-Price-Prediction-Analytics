@@ -20,7 +20,7 @@ The project leverages a multi-layered architecture for data ingestion, feature e
 
 ### 🔹 Feature Engineering & Modeling
 - Integration and processing of datasets to create enriched features.
-- Predictive models trained include **ARIMA**, **XGBoost**, and **LSTM**, applied on both historical and high-frequency trading data.
+- Predictive models trained include **Ridge**,**Lasso**, **XGBoost**, and **LSTM**, applied on both historical and high-frequency trading data.
 
 ### 🔹 Dashboard & Analytics
 - An interactive dashboard visualizes key performance metrics, forecasted trends, and trading signals.
