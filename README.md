@@ -39,9 +39,6 @@ The project leverages a multi-layered architecture for data ingestion, feature e
 - **Cloud & Automation:**  
   `AWS Lambda`, `AWS EventBridge`, `AWS S3`
 
-- **Visualization & Dashboarding:**  
-  `matplotlib`, `dash`, `Plotly`
-
 ---
 
 ## 📊 Dataset Used
