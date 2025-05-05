@@ -34,14 +34,14 @@ The project leverages a multi-layered architecture for data ingestion, feature e
   Python
 
 - **Data Processing & Analytics:**  
-  `pandas`, `numpy`, `scikit-learn`, `tensorflow`
+  `pandas`, `numpy`
 
 - **Cloud & Automation:**  
   `AWS Lambda`, `AWS EventBridge`, `AWS S3`
 
 ---
 
-## 📊 Dataset Used
+##  Dataset Used
 
 The project utilizes comprehensive datasets including:
 
